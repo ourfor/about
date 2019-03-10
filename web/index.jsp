@@ -28,6 +28,7 @@
 
   </head>
   <body>
+  <a id="contentTop"></a>
   <div class="container">
     <header>&nbsp;&nbsp;欢迎来到我的个人空间<br>
       <div class="list-group">
@@ -139,7 +140,7 @@
         <a href="https://file.ourfor.top">File</a>
         <a href="https://ourfor.top">Index</a>
         <a href="https://diary.ourfor.top">Diary</a>
-        <a href="#">返回顶部</a>
+        <a href="#contentTop">返回顶部</a>
       </span>
     </footer>
   </div>
