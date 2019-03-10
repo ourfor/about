@@ -18,8 +18,9 @@ public class comment extends HttpServlet {
         PrintWriter out = response.getWriter();
         out.println("<!DOCTYPE HTML>");
         out.println("<html>");
-        out.println("<head><title>测试Servlet<title>");
+        out.println("<head><title>测试Servlet</title>");
         out.println("</head>");
+        out.println("<body>这是一个servlet文件</body>");
         out.println("</html>");
     }
 }

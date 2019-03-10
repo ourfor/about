@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48ebf5fc-c265-4811-aa9a-54a2ef47e06c" name="ip.ourfor.top" url="http://ip.ourfor.top">
+        <fileTransfer host="ip.ourfor.top" port="1205" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/usr/share/tomcat/webapps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1205" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
