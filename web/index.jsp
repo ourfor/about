@@ -36,7 +36,7 @@
         <a class="list-group-item" href="https://weibo.com/u/5213768713?refer_flag=1001030201_&is_all=1"><i class="fa fa-weibo fa-fw"></i>&nbsp; Weibo</a>
         <a class="list-group-item" href="https://www.google.com"><i class="fa fa-google fa-fw"></i>&nbsp; Google</a>
         <a class="list-group-item" href="https://github.com/ourfor"><i class="fa fa-github fa-fw"></i>&nbsp; GitHub</a>
-        <a class="list-group-item" href="https://blog.ourfor.top"><i class="fa fa-ravelry fa-fw">&nbsp; Blog</i></a>
+        <a class="list-group-item" href="https://blog.ourfor.top"><i class="fa fa-ravelry fa-fw"></i>&nbsp; Blog</a>
       </div>
     </header>
     <div class="gap"></div>
