@@ -14,7 +14,7 @@
     <title>Zip的小窝</title>
     <link rel="shortcut icon" href="https://book.ourfor.top/favicon.ico">
     <link rel="stylesheet" type="text/css" href="./css/layout.css" >
-    <script src="./js/footerPosition.js"></script>
+    <script src="js/main.js"></script>
     <!--music player-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css">
     <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script>
