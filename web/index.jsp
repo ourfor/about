@@ -32,19 +32,20 @@
     <header>&nbsp;&nbsp;欢迎来到我的个人空间<br>
       <div class="list-group">
         <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
-        <a class="list-group-item" href="https://cloud.ourfor.top"><i class="fa fa-book fa-fw"></i>&nbsp; Cloud</a>
+        <a class="list-group-item" href="https://cloud.ourfor.top"><i class="fa fa-cloud fa-fw"></i>&nbsp; Cloud</a>
         <a class="list-group-item" href="https://weibo.com/u/5213768713?refer_flag=1001030201_&is_all=1"><i class="fa fa-weibo fa-fw"></i>&nbsp; Weibo</a>
         <a class="list-group-item" href="https://www.google.com"><i class="fa fa-google fa-fw"></i>&nbsp; Google</a>
         <a class="list-group-item" href="https://github.com/ourfor"><i class="fa fa-github fa-fw"></i>&nbsp; GitHub</a>
         <a class="list-group-item" href="https://blog.ourfor.top"><i class="fa fa-ravelry fa-fw"></i>&nbsp; Blog</a>
+        <a class="list-group-item" href="https://www.instagram.com/sagit.zxw/"><i class="fa fa-instagram fa-fw"></i>&nbsp; Instag</a>
       </div>
     </header>
     <div class="gap"></div>
     <section>
       <section id="page">
           <div id="display">
-            <a href="https://ws1.sinaimg.cn/large/005GQrpLly1g0xgcrzlwgj30u011h7ly.jpg" data-fancybox data-caption="Caption for single image">
-              <img src="https://ws1.sinaimg.cn/large/005GQrpLly1g0xgcrzlwgj30u011h7ly.jpg" alt="" />
+            <a href="https://ws1.sinaimg.cn/large/005GQrpLly1g0xgd6o270j30u01181f6.jpg" data-fancybox data-caption="美景总是能给我带来好心情">
+              <img src="https://ws1.sinaimg.cn/large/005GQrpLly1g0xgd6o270j30u01181f6.jpg" alt="" />
             </a>
           </div>
         <div class="gap"></div>
@@ -103,9 +104,14 @@
             <hr>
             <div name="text">一个软件工程的大二狗，平时不学无术，关键时候老是掉链子。这是我学习jsp过程中写的一个演示网页。
               以前有玩过WordPress和Typecho，最后钟情Hexo,
-            <a href="https://blog.ourfor.top">Zip的小窝</a>就是读大学以后开始写的，以前写的东西都删掉了。曾入坑过许多门编程语言，比如:VB.NET、
-            C/C++、JavaScript、Java、Python。写得一手烂代码。</div>
+            <a href="https://blog.ourfor.top">Zip的小窝</a>就是读大学以后开始写的，读初中起从第一次给手机root，
+              我学会了刷机，于是就有了这个网站<a href="https://sagit.ourfor.top">Sagit</a>,初三开始有自己的笔记本之后，
+              我就开始学拆机，在这些过程中我对计算机产生了浓厚的兴趣，至于写网站的起源，那是在路由器上安装lamp开始的。
+              以前写的东西都删掉了。曾入坑过许多门编程语言，比如:VB.NET、
+            C/C++、JavaScript、Java、Python、shell。写得一手烂代码。设计模式也不能非常熟练的使用。唯一拿的出手的就是给别人拆机，装装电脑</div>
             <hr>
+            <h3>总之，</h3>
+            我做事不认真，爱看小说，还爱吹牛逼
             <h3>联系方式</h3>
               <ul>
                 <li><em>QQ</em>&nbsp;: 2320813747</li>
