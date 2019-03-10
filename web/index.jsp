@@ -31,7 +31,7 @@
   <div class="container">
     <header>&nbsp;&nbsp;欢迎来到我的个人空间<br>
       <div class="list-group">
-        <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
+        <a class="list-group-item" href="https://ourfor.top"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
         <a class="list-group-item" href="https://cloud.ourfor.top"><i class="fa fa-cloud fa-fw"></i>&nbsp; Cloud</a>
         <a class="list-group-item" href="https://weibo.com/u/5213768713?refer_flag=1001030201_&is_all=1"><i class="fa fa-weibo fa-fw"></i>&nbsp; Weibo</a>
         <a class="list-group-item" href="https://www.google.com"><i class="fa fa-google fa-fw"></i>&nbsp; Google</a>
