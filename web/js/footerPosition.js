@@ -1,27 +1,10 @@
-function FooterPosition(){
-    var footer = document.getElementsByTagName("footer");
-    for(var i = 0;i<footer.length;i++)delClass(footer[i],"fix-bottom");
-    var contentHeight = document.body.scrollHeight;
-    var winHeight = window.innerHeight;
-    if(contentHeight > winHeight){
-        for(var i=0;i<footer.length;i++) {
-            footer[i].style.background="red";
-            addClass(footer[i],"fix-bottom");
-        }
-    }
+function ChangePicture(link){
+    link = link.replace("thumbnail","large");
+    var display = document.getElementById("display");
+    var aLink = display.firstElementChild;
+    var pictureLink = aLink.firstElementChild;
+    aLink.href = link;
+    pictureLink.src = link;
 
 }
 
-function addClass(element,newClass){
-    var oldClass = element.className;
-    element.className = oldClass + " " + newClass;
-}
-
-function delClass(element,delClass){
-    var oldClass = element.className.split(" ");
-    var newClass = "";
-    for(var i=0;i<oldClass.length;i++){
-        newClass = oldClass[i] === delClass?newClass + "":newClass + oldClass[i];
-    }
-    element.className = newClass;
-}

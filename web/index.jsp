@@ -19,15 +19,69 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css">
     <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
+    <!--picture fancybox-->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
+    <!--fontawesome icon-->
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
   </head>
   <body>
   <div class="container">
-    <header>欢迎来到我的个人空间</header>
+    <header>&nbsp;&nbsp;欢迎来到我的个人空间<br>
+      <div class="list-group">
+        <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
+        <a class="list-group-item" href="https://cloud.ourfor.top"><i class="fa fa-book fa-fw"></i>&nbsp; Cloud</a>
+        <a class="list-group-item" href="https://weibo.com/u/5213768713?refer_flag=1001030201_&is_all=1"><i class="fa fa-weibo fa-fw"></i>&nbsp; Weibo</a>
+        <a class="list-group-item" href="https://www.google.com"><i class="fa fa-google fa-fw"></i>&nbsp; Google</a>
+        <a class="list-group-item" href="https://github.com/ourfor"><i class="fa fa-github fa-fw"></i>&nbsp; GitHub</a>
+        <a class="list-group-item" href="https://blog.ourfor.top"><i class="fa fa-ravelry fa-fw">&nbsp; Blog</i></a>
+      </div>
+    </header>
     <div class="gap"></div>
     <section>
       <section id="page">
-        这是我的主要内容
+          <div id="display">
+            <a href="https://ws1.sinaimg.cn/large/005GQrpLly1g0xgcrzlwgj30u011h7ly.jpg" data-fancybox data-caption="Caption for single image">
+              <img src="https://ws1.sinaimg.cn/large/005GQrpLly1g0xgcrzlwgj30u011h7ly.jpg" alt="" />
+            </a>
+          </div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+          <section class="saying">
+            <h3>&nbsp;&nbsp;卜算子·咏梅</h3><br>
+            <em name="author">--&nbsp;毛泽东</em><br><br>
+            风雨送春归，飞雪迎春到。已是悬崖百丈冰，犹有花枝俏。<br>
+            俏也不争春，只把春来报。待到山花烂漫时，她在丛中笑。<br>
+
+          </section>
+          <div id="preView">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd5fiz4j32kd1xakjl.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcshdnxj32yo1o0e81.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd71jauj32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcqayo4j32ql1sw4qp.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd1ioy3j32kd1xahdt.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcm5zlmj31900u0tgw.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdb77xzj32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgda0r8ej32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcxpt8nj32kd1xa4qp.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcw8nejj32th1r14qp.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcua9csj30u011h1kx.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcv1975j32qt1sr1kx.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcyqiftj32py1tbe6h.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd6o270j30u01181f6.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdc70smj32rw1s2hdt.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd7onfdj32q21t81kx.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcx5g8kj32kd1xa1kx.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdegydpj32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgclqgl1j30k00oxn3r.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcon10rj30u01147q8.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgclrcgej30u011ith8.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd0is0sj30u011i7wh.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcnegukj30u00y9gzz.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcrzlwgj30u011h7ly.jpg" onclick="ChangePicture(this.src)">
+          </div>
       </section>
         <aside>
           <aside class="top">
