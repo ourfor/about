@@ -20,6 +20,7 @@ public class excel extends HttpServlet {
         out.println("学号\t姓名\t性别\t年龄\t所在系");
         out.println("95001\t李勇\t男\t20\t信息");
         out.println("95002\t刘晨\t女\t19\t数学");
+        out.println("95003\t皮特\t男\t19\t英语");
 
     }
 }
