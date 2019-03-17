@@ -60,30 +60,30 @@
 
           </section>
           <div id="preView">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd5fiz4j32kd1xakjl.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcshdnxj32yo1o0e81.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd71jauj32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcqayo4j32ql1sw4qp.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd1ioy3j32kd1xahdt.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcm5zlmj31900u0tgw.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdb77xzj32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgda0r8ej32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcxpt8nj32kd1xa4qp.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcw8nejj32th1r14qp.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcua9csj30u011h1kx.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcv1975j32qt1sr1kx.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcyqiftj32py1tbe6h.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd6o270j30u01181f6.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdc70smj32rw1s2hdt.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd7onfdj32q21t81kx.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcx5g8kj32kd1xa1kx.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdegydpj32kd1xaqv5.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgclqgl1j30k00oxn3r.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcon10rj30u01147q8.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgclrcgej30u011ith8.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd0is0sj30u011i7wh.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcnegukj30u00y9gzz.jpg" onclick="ChangePicture(this.src)">
-            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcrzlwgj30u011h7ly.jpg" onclick="ChangePicture(this.src)">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd5fiz4j32kd1xakjl.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcshdnxj32yo1o0e81.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd71jauj32kd1xaqv5.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcqayo4j32ql1sw4qp.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd1ioy3j32kd1xahdt.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcm5zlmj31900u0tgw.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdb77xzj32kd1xaqv5.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgda0r8ej32kd1xaqv5.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcxpt8nj32kd1xa4qp.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcw8nejj32th1r14qp.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcua9csj30u011h1kx.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcv1975j32qt1sr1kx.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcyqiftj32py1tbe6h.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd6o270j30u01181f6.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdc70smj32rw1s2hdt.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd7onfdj32q21t81kx.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcx5g8kj32kd1xa1kx.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgdegydpj32kd1xaqv5.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgclqgl1j30k00oxn3r.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcon10rj30u01147q8.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgclrcgej30u011ith8.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgd0is0sj30u011i7wh.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcnegukj30u00y9gzz.jpg">
+            <img src="https://ws1.sinaimg.cn/thumbnail/005GQrpLly1g0xgcrzlwgj30u011h7ly.jpg">
           </div>
       </section>
         <aside>
@@ -145,5 +145,10 @@
       </span>
     </footer>
   </div>
+  <script>
+      var preView = document.getElementById("preView");
+      var img = preView.getElementsByTagName("img");
+      for(let i=0;i<img.length;i++) img[i].onclick=ChangePicture;
+  </script>
   </body>
 </html>
